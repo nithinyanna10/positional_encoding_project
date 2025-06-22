@@ -62,5 +62,4 @@ Nithin Reddy Yanna
 
 ---
 
-📌 Built as part of a deep learning engineering assignment to showcase transformer internals and data visualization skills.
 
